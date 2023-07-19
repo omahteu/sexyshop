@@ -9728,3 +9728,12 @@ a.text-dark:hover, a.text-dark:focus {
   /* Terceiro passo: apagar o texto, deixando apenas o fundo atrás dele */
   -webkit-text-fill-color: transparent;
 }
+
+.tag_meio {
+  margin: 0 !important;
+  color: #880015 ;
+}
+
+.cor_tag_meio {
+  color: #880015 ;
+}
