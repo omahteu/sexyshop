@@ -21,9 +21,9 @@ $(window).on("load", function() {
                     <img class="position-absolute w-100 h-100" src="img/vib.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 700px;">
-                            <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Vibradores</h1>
-                            <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Lorem rebum magna amet lorem magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum diam</p>
-                            <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Shop Now</a>
+                            <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown fpi">Vibradores</h1>
+                            <p class="mx-md-5 px-5 animate__animated animate__bounceIn fpi_g">Lorem rebum magna amet lorem magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum diam</p>
+                            <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp fpi_g" href="#">quero agora</a>
                         </div>
                     </div>
                 </div>
@@ -31,9 +31,9 @@ $(window).on("load", function() {
                     <img class="position-absolute w-100 h-100" src="img/mas.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 700px;">
-                            <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Mastubadores</h1>
-                            <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Lorem rebum magna amet lorem magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum diam</p>
-                            <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Shop Now</a>
+                            <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown fpi">Mastubadores</h1>
+                            <p class="mx-md-5 px-5 animate__animated animate__bounceIn fpi_g">Lorem rebum magna amet lorem magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum diam</p>
+                            <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp fpi_g" href="#">quero agora</a>
                         </div>
                     </div>
                 </div>
@@ -41,9 +41,9 @@ $(window).on("load", function() {
                     <img class="position-absolute w-100 h-100" src="img/ana.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 700px;">
-                            <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Anal</h1>
-                            <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Lorem rebum magna amet lorem magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum diam</p>
-                            <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Shop Now</a>
+                            <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown fpi">Anal</h1>
+                            <p class="mx-md-5 px-5 animate__animated animate__bounceIn fpi_g">Lorem rebum magna amet lorem magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum diam</p>
+                            <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp fpi_g" href="#">quero agora</a>
                         </div>
                     </div>
                 </div>

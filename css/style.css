@@ -9738,14 +9738,23 @@ a.text-dark:hover, a.text-dark:focus {
   color: #880015 ;
 }
 
-.tag_meio_texto {
-  font-family: 'Existence';
-  font-weight: 300;
+.fonte_principal {
+  font-family: 'Alumni Sans', sans-serif;
+}
+
+.fpi {
+  font-family: 'Alumni Sans', sans-serif;
+  font-style: italic;
+}
+
+.fpi_n {
+  font-family: 'Alumni Sans', sans-serif;
+  font-weight: 900 !important;
   font-style: normal;
 }
 
-.tag_meio_texto2 {
-  font-family: 'Simplifica';
-  font-weight: normal;
-  font-style: normal;
+.fpi_g {
+  font-family: 'Alumni Sans', sans-serif;
+  /* font-style: italic; */
+  font-size: 1.75em;
 }

@@ -13,17 +13,17 @@ $(window).on("load", function() {
         <div class="product-offer mb-30" style="height: 200px;">
             <img class="img-fluid" src="img/bdsm.jpg" alt="">
             <div class="offer-text">
-                <h6 class="text-white text-uppercase">Save 20%</h6>
-                <h3 class="text-white mb-3">Special Offer</h3>
-                <a href="" class="btn btn-primary">Shop Now</a>
+                <!-- <h6 class="text-white">Save 20%</h6> -->
+                <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown fpi">Sado</h1>
+                <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp fpi_g" href="#">quero agora</a>
             </div>
         </div>
         <div class="product-offer mb-30" style="height: 200px;">
             <img class="img-fluid" src="img/fan.jpg" alt="">
             <div class="offer-text">
-                <h6 class="text-white text-uppercase">Save 20%</h6>
-                <h3 class="text-white mb-3">Special Offer</h3>
-                <a href="" class="btn btn-primary">Shop Now</a>
+            <!-- <h6 class="text-white text-uppercase">Save 20%</h6> -->
+            <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown fpi">Fantasias</h1>
+                <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp fpi_g" href="#">quero agora</a>
             </div>
         </div>
         `
