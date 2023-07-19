@@ -9715,9 +9715,11 @@ a.text-dark:hover, a.text-dark:focus {
 }
  
 .bann {
-  font-family: 'July it';
+  /* font-family: 'July it';
   font-weight: normal;
-  font-style: normal;
+  font-style: normal; */
+
+  font-family: 'Great Vibes', cursive;
 
   background-image: linear-gradient(to bottom, #400000, #800000, #FF0000);
   
@@ -9727,6 +9729,12 @@ a.text-dark:hover, a.text-dark:focus {
 
   /* Terceiro passo: apagar o texto, deixando apenas o fundo atrás dele */
   -webkit-text-fill-color: transparent;
+}
+
+.bann_sub {
+  font-family: 'Josefin Slab', serif;
+  color: black;
+  margin-left: 35px;
 }
 
 .tag_meio {
