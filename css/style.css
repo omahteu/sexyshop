@@ -6164,7 +6164,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #3D464D !important;
+  background-color: #880015 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -7319,6 +7319,7 @@ button.bg-dark:focus {
 
 .m-0 {
   margin: 0 !important;
+  color: #FFD333;
 }
 
 .mt-0,
@@ -7329,6 +7330,7 @@ button.bg-dark:focus {
 .mr-0,
 .mx-0 {
   margin-right: 0 !important;
+  
 }
 
 .mb-0,
@@ -7377,6 +7379,7 @@ button.bg-dark:focus {
 .mr-2,
 .mx-2 {
   margin-right: 0.5rem !important;
+  color: #FFD333;
 }
 
 .mb-2,
@@ -9709,4 +9712,19 @@ a.text-dark:hover, a.text-dark:focus {
   100% {
     transform: translateY(-15px);
   }
+}
+ 
+.bann {
+  font-family: 'July it';
+  font-weight: normal;
+  font-style: normal;
+
+  background-image: linear-gradient(to bottom, #400000, #800000, #FF0000);
+  
+  /* Segundo passo: apagar do fundo tudo que não estiver imediatamente atrás de texto */
+  background-clip: text;
+  -webkit-background-clip: text; /* Alguns navegadores precisam do prefixo */
+
+  /* Terceiro passo: apagar o texto, deixando apenas o fundo atrás dele */
+  -webkit-text-fill-color: transparent;
 }
