@@ -408,7 +408,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+  font-size: 1.55rem;
 }
 
 h6, .h6 {
@@ -9736,4 +9736,16 @@ a.text-dark:hover, a.text-dark:focus {
 
 .cor_tag_meio {
   color: #880015 ;
+}
+
+.tag_meio_texto {
+  font-family: 'Existence';
+  font-weight: 300;
+  font-style: normal;
+}
+
+.tag_meio_texto2 {
+  font-family: 'Simplifica';
+  font-weight: normal;
+  font-style: normal;
 }
